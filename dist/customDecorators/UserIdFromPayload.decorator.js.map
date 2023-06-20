@@ -1,0 +1,1 @@
+{"version":3,"file":"UserIdFromPayload.decorator.js","sourceRoot":"","sources":["../../src/customDecorators/UserIdFromPayload.decorator.ts"],"names":[],"mappings":";;;AAAA,2CAAwE;AAO3D,QAAA,iBAAiB,GAAG,IAAA,6BAAoB,EACnD,CAAC,IAAa,EAAE,GAAqB,EAAE,EAAE;IACvC,MAAM,OAAO,GAAG,GAAG,CAAC,YAAY,EAAE,CAAC,UAAU,EAAwB,CAAC;IACtE,OAAO,OAAO,CAAC,OAAO,CAAC,MAAM,CAAC;AAChC,CAAC,CACF,CAAC"}
