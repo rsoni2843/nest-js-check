@@ -38,7 +38,7 @@ reports
 !.vscode/extensions.json
 
 # Misc
-.env
+
 customer-service-error*
 customer-service.20*
 graphql.ts
